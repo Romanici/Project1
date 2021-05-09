@@ -1,15 +1,18 @@
-# Project1
-Udacity Nanodegree
+# Project 1
+Data Science Udacity Nanodegree
 
 
 ## Project Motivation
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I analyse data from the platform Airbnb for Barcelona with the aim of answering the following questions:
++ How the activity has been affected by the pandemic.
++ The evolution of prices during the last year 
++ Which kind of listings have been more impacted by the pandemic. 
+Therefore, I look into the two most important characteristics of a market: quantity and price.
 
 
 ## File Descriptions
-There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is 1 notebook available here to showcase the code used to answer the above questions. There are also several .csv files which contain the data needed. 
 
-There is an additional .py file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results
 The main findings of the code can be found at the post available [here](https://afagustin7.medium.com/analyzing-the-impact-of-covid-19-on-barcelonas-airbnb-market-844d9425706f). 
