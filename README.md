@@ -12,7 +12,7 @@ Therefore, I look into the two most important characteristics of a market: quant
 
 
 ## File Descriptions
-There is 1 notebook available here to showcase the python code used to answer the above questions. There are also several .csv files which contain the data needed. 
+There is 1 notebook available here to showcase the python code used to answer the above questions. There are also several .csv files which contain the data needed. However a couple of the datasets is not uploaded because of their size.
 
 
 ## Results
