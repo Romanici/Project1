@@ -6,12 +6,13 @@ Data Science Udacity Nanodegree
 For this project, I analyse data from the platform Airbnb for Barcelona with the aim of answering the following questions:
 + How the activity has been affected by the pandemic.
 + The evolution of prices during the last year 
-+ Which kind of listings have been more impacted by the pandemic. 
++ Which kind of listings have been more impacted by the pandemic.
+ 
 Therefore, I look into the two most important characteristics of a market: quantity and price.
 
 
 ## File Descriptions
-There is 1 notebook available here to showcase the code used to answer the above questions. There are also several .csv files which contain the data needed. 
+There is 1 notebook available here to showcase the python code used to answer the above questions. There are also several .csv files which contain the data needed. 
 
 
 ## Results
